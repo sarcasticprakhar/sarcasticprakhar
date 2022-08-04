@@ -21,7 +21,7 @@
 <a href="https://twitter.com/imprakhar844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imprakhar844" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prakhar-srivastava-4387b821b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-srivastava-4387b821b" height="30" width="40" /></a>
 <a href="https://instagram.com/iamrealprakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamrealprakhar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@prakharism_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prakharism_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prakharism_?h_r=internal-search&hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prakharism_" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@imprakhar844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@imprakhar844" height="30" width="40" /></a>
 </p>
 
