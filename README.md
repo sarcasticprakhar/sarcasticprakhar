@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/imprakhar844" target="blank"><img src="https://img.shields.io/twitter/follow/imprakhar844?logo=twitter&style=for-the-badge" alt="imprakhar844" /></a> </p>
 
-- 🌱 I’m currently learning **Html,Css,Javascript,React,Nodejs**
+- 🌱 I’m currently learning **Html,Css,Terraform,Amazon Web Services,Devops**
 
 - 📫 How to reach me **reachoutprakhar@gmail.com**
 
