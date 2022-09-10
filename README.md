@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/13aonefwbGg2eEiCvd4rNWjOl_2iBAbOb?usp=sharing]
 
-- ⚡ Fun fact **I am crazy to research and develope.**
+- ⚡ Fun fact **I am crazy to learn | research | develop.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
