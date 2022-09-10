@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **reachoutprakhar@gmail.com**
 
-- 📄 Know about my experiences [Know abohttps://drive.google.com/drive/folders/13aonefwbGg2eEiCvd4rNWjOl_2iBAbOb?usp=sharing](Know abohttps://drive.google.com/drive/folders/13aonefwbGg2eEiCvd4rNWjOl_2iBAbOb?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/13aonefwbGg2eEiCvd4rNWjOl_2iBAbOb?usp=sharing]
 
 - ⚡ Fun fact **I am crazy to research and develope.**
 
