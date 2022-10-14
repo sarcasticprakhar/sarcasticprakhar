@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Amazon Web Services , Terraform , Devops**
 
-- 📫 How to reach me **reachoutprakhar@gmail.com**
+- 📫 How to reach me **sarcasticprakhar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/13aonefwbGg2eEiCvd4rNWjOl_2iBAbOb?usp=sharing]
 
