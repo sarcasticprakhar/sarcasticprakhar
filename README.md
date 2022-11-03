@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/13aonefwbGg2eEiCvd4rNWjOl_2iBAbOb?usp=sharing]
 
-- ⚡ Fun fact **I am crazy to learn | research | develop.**
+- ⚡ Fun fact **I am crazy to learn | research | develope.**
 
 
 
