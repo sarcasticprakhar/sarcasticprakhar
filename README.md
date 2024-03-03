@@ -2,7 +2,7 @@
 ![MasterHead](https://images.ctfassets.net/em6l9zw4tzag/s2J4qM7DvYAzmqCUnC5QQ/6e5762c0794a046129e1198e5c0a8d8d/FaveTools.gif) 
 
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
-<h2 align="center">A passionate Software Engineer from India</h2>
+<h2 align="center">A Passionate Software Engineer From India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarcasticprakhar&label=Profile%20views&color=0e75b6&style=flat" alt="sarcasticprakhar" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/13aonefwbGg2eEiCvd4rNWjOl_2iBAbOb?usp=sharing]
 
-- ⚡ Fun fact **I am crazy to learn | research | develope.**
+- ⚡ Fun fact **I am crazy to learn | Research | Develop.**
 
 
 
