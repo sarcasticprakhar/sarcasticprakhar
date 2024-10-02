@@ -7,14 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarcasticprakhar&label=Profile%20views&color=0e75b6&style=flat" alt="sarcasticprakhar" /> </p>
 
 
-<img align="right"  height="280" width="480" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+<img align="right"  height="280" width="470" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 <p align="bottom"> <a href="https://twitter.com/imprakhar844" target="blank"><img src="https://img.shields.io/twitter/follow/imprakhar844?logo=twitter&style=for-the-badge" alt="imprakhar844" /></a> </p>
 
 - 🌱 I’m currently learning **C/C++ | JAVA | REST APIs | Amazon Web Services | GIT | DSA**
 
 - 📫 How to reach me **reachoutprakhar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nm4DI1kn9YV7BnQF2gQMs9uZZV_OU6PD/view?usp=drive_link]
+- 📄 Know about my experience
+     [https://drive.google.com/file/d/1nm4DI1kn9YV7BnQF2gQMs9uZZV_OU6PD/view?usp=drive_link]
 
 - ⚡ Fun fact **I am crazy to learn | Research | Develop.**
 
